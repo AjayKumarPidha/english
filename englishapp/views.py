@@ -13,11 +13,12 @@ class mahi(views):
 class sakshi(views):
     print("tm")
 
+
+
 class mahi(views):
-    print("hm")
+    print("mahidsds")
 
 
-class seeta(views):
-    print("fgvdf")
-
+class sakshi(views):
+    print("tm")
 
