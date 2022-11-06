@@ -17,3 +17,7 @@ class mahi(views):
     print("hm")
 
 
+class seeta(views):
+    print("fgvdf")
+
+
