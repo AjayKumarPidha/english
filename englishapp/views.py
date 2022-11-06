@@ -9,3 +9,8 @@ class sakshi(views):
 class mahi(views):
     print("mahi")
 
+class sakshi(views):
+    print("alfdlo")
+
+class mahi(views):
+    print("mahfdgvfi")
