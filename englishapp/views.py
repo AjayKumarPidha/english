@@ -9,10 +9,3 @@ class sakshi(views):
 class mahi(views):
     print("mahi")
 
-
-class sakshi(views):
-    print("tm")
-
-
-
-
