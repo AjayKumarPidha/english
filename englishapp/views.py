@@ -15,10 +15,4 @@ class sakshi(views):
 
 
 
-class mahi(views):
-    print("mahidsds")
-
-
-class sakshi(views):
-    print("tm")
 
