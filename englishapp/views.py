@@ -8,3 +8,7 @@ class sakshi(views):
 
 class mahi(views):
     print("mahi")
+
+
+class Seeta(views):
+    print("sharma")
